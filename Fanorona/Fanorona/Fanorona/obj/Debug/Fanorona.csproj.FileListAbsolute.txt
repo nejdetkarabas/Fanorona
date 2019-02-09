@@ -1,0 +1,27 @@
+C:\Users\Roshnak\Desktop\Fanorona\Fanorona\Fanorona\bin\Debug\Fanorona.exe.config
+C:\Users\Roshnak\Desktop\Fanorona\Fanorona\Fanorona\bin\Debug\Fanorona.exe
+C:\Users\Roshnak\Desktop\Fanorona\Fanorona\Fanorona\bin\Debug\Fanorona.pdb
+C:\Users\Roshnak\Desktop\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.csprojResolveAssemblyReference.cache
+C:\Users\Roshnak\Desktop\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.Form1.resources
+C:\Users\Roshnak\Desktop\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.Properties.Resources.resources
+C:\Users\Roshnak\Desktop\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.csproj.GenerateResource.Cache
+C:\Users\Roshnak\Desktop\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.exe
+C:\Users\Roshnak\Desktop\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.pdb
+C:\Users\Roshnak\Desktop\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\bin\Debug\Fanorona.exe.config
+C:\Users\Roshnak\Desktop\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.exe
+C:\Users\Roshnak\Desktop\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.pdb
+C:\Users\Roshnak\Desktop\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\bin\Debug\Fanorona.exe
+C:\Users\Roshnak\Desktop\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\bin\Debug\Fanorona.pdb
+C:\Users\Roshnak\Desktop\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.csprojResolveAssemblyReference.cache
+C:\Users\Roshnak\Desktop\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.Form1.resources
+C:\Users\Roshnak\Desktop\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.Properties.Resources.resources
+C:\Users\Roshnak\Desktop\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.csproj.GenerateResource.Cache
+D:\Ders Notları\Görsel Programlama Fanorona\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\bin\Debug\Fanorona.exe.config
+D:\Ders Notları\Görsel Programlama Fanorona\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.exe
+D:\Ders Notları\Görsel Programlama Fanorona\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.pdb
+D:\Ders Notları\Görsel Programlama Fanorona\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\bin\Debug\Fanorona.exe
+D:\Ders Notları\Görsel Programlama Fanorona\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\bin\Debug\Fanorona.pdb
+D:\Ders Notları\Görsel Programlama Fanorona\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.csprojResolveAssemblyReference.cache
+D:\Ders Notları\Görsel Programlama Fanorona\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.Form1.resources
+D:\Ders Notları\Görsel Programlama Fanorona\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.Properties.Resources.resources
+D:\Ders Notları\Görsel Programlama Fanorona\Görsel Programlama 305418 - 305404\Fanorona\Fanorona\Fanorona\obj\Debug\Fanorona.csproj.GenerateResource.Cache
